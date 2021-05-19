@@ -1,0 +1,6 @@
+lo que se nota es que se empieza a crear tecxtos en los cuales corrobora la funcion y funcionaamiento del mismo, teniendo 
+algunos comando como:
+AT+CWLAP
+
++CWLAP: (0,"Simulador Wifi",-55,"eb:f5:9b:36:a6",1)
+OK
